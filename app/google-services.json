@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "118443034193",
+    "firebase_url": "https://agrostarassignment-79f04.firebaseio.com",
+    "project_id": "agrostarassignment-79f04",
+    "storage_bucket": "agrostarassignment-79f04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118443034193:android:a2312c0f2994f8b6",
+        "android_client_info": {
+          "package_name": "com.softaai.agrostarassigment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118443034193-9e1n8cnpdf4mmpcpu6pu2nl2adajntag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softaai.agrostarassigment",
+            "certificate_hash": "7a21e71d46b8cacf1b171c09106aebb3ed904021"
+          }
+        },
+        {
+          "client_id": "118443034193-9jkpjc1uvrqud5cemkjabs15o20mk1pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzb7C6VjLZhjP3eencbWJ9JKo3fHOy-8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118443034193-9jkpjc1uvrqud5cemkjabs15o20mk1pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
